@@ -1,0 +1,21 @@
+.banner-plugin h2 {
+    font-size: 2em;
+    text-align: center;
+}
+.main-plugin {
+    float: left;
+    width: 100%;
+}
+.main-plugin .main-left {
+    float: left;
+    width: 65%;
+    background: #fff;
+    padding: 1% 2%;
+    margin-right: 1%;
+}
+.main-plugin .main-right {
+    float: left;
+    width: 24%;
+    background: #fff;
+    padding: 1% 2%;
+}
